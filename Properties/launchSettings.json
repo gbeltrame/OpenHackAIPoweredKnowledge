@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "openhack_ai_knowledge_mining": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7235",
+      "launchBrowser": false
+    }
+  }
+}
